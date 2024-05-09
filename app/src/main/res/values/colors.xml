@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_color">#F25757</color>
+    <color name="startColor">#E41B1B</color>
+    <color name="endColor">#EA6E6E</color>
+    <color name="iconColor">#8B0404</color>
+    <color name="grey">#8B8A8A</color>
+    <color name="maincolor">#F9F3DF</color>
+    <color name="lightblue">#91DCFE</color>
+    <color name="lightorange">#F88073</color>
+    <color name="transp">#00ffffff</color>
+</resources>

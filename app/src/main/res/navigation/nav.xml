@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav"
+    app:startDestination="@id/home2">
+
+    <fragment
+        android:id="@+id/home2"
+        android:name="com.example.boxc.Fragments.home"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/bell2"
+        android:name="com.example.boxc.Fragments.bell"
+        android:label="fragment_bell"
+        tools:layout="@layout/fragment_bell" />
+    <fragment
+        android:id="@+id/gaming"
+        android:name="com.example.boxc.Fragments.Gaming"
+        android:label="fragment_gaming"
+        tools:layout="@layout/fragment_gaming" />
+    <fragment
+        android:id="@+id/settings2"
+        android:name="com.example.boxc.Fragments.Settings"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+</navigation>

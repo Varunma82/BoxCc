@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552868781972",
+    "project_id": "boxcricket-794cb",
+    "storage_bucket": "boxcricket-794cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552868781972:android:4b5f53196b65ea51b43981",
+        "android_client_info": {
+          "package_name": "com.example.boxc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-tkI2qMMX5rGyqsu4qzY0ezJKia9r_ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
